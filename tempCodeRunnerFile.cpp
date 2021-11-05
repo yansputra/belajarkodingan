@@ -1,0 +1,1 @@
+cout<<"jenis kelamin: "<<data.ktp[i].jenisKelamin<<'\n';
